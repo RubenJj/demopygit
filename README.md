@@ -1,2 +1,2 @@
 # demopygit
-Demo for PyCharm
+Demo for PyCharm and GitHub
